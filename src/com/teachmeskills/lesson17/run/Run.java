@@ -39,7 +39,7 @@ public class Run {
             }
         }
         catch (InputMismatchException e){
-            System.out.println("You must enter the number 1 or 2");
+            System.out.println("You need enter the number 1 or 2");
         }
     }
 }
